@@ -1,8 +1,10 @@
-## 🎲 Today's Lucky Roll
+# 💖 Play Bubble Pop
 
-![Dice](https://raw.githubusercontent.com/matteobruni/tsparticles/main/images/dice/dice6.png)
+[![Play Bubble Pop](https://img.shields.io/badge/Play-💖%20Bubble%20Pop-ff69b4?style=for-the-badge)](https://your-game-link.com)
 
-> Reload the page daily to roll again!
+> A cute clicker game made with HTML/CSS/JS  
+> Designed by Marie ✨
+
 
 
 
