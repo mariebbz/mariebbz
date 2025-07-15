@@ -1,7 +1,7 @@
-## 💌 About Me
+<details>
+  <summary>💌 want to know a secret?</summary>
+  i’m probably working on a pink terminal theme right now.
+</details>
 
-i make code  
-look soft  
-but act smart
 
 
