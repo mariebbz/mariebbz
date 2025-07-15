@@ -1,1 +1,1 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=hi+there+%F0%9F%91%8B+i+make+things+look+pretty;and+also+sometimes+they+work.)
+<img src="https://your.link.com/banner.gif" width="100%" />
