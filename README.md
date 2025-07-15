@@ -1,1 +1,1 @@
-[![Surprise](https://img.shields.io/badge/🎁_Open_a_gift-ffb6c1?style=for-the-badge)](https://www.youtube.com/watch?v=5qap5aO4i9A)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=hi+there+%F0%9F%91%8B+i+make+things+look+pretty;and+also+sometimes+they+work.)
