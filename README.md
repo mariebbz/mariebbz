@@ -1,1 +1,1 @@
-![Marie’s GitHub stats](https://github-readme-stats.vercel.app/api?username=mariebbz&show_icons=true&theme=radical)
+![Snake animation](https://github.com/mariebbz/mariebbz/blob/output/github-contribution-grid-snake.svg)
