@@ -1,4 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=⌛+loading+mariebbz.dev...;📂+opening+digital+workspace;💻+syncing+playlists+%2B+pixels;🎀+welcome+to+the+soft+side+of+github" alt="Typing animation" />
-</p>
+[![Click Me](https://img.shields.io/badge/🎁_click+here+for+something+pink-ff69b4?style=for-the-badge)](https://open.spotify.com/playlist/3hARKC8cinq3b1k3kjjAPb)
+
 
