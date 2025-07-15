@@ -1,3 +1,2 @@
-![Visitor Count](https://profile-counter.glitch.me/mariebbz/count.svg)
-
+![Visitor Flags](https://www.flagcounter.me/more/abc123/)  
 
